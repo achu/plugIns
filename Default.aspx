@@ -72,7 +72,6 @@
 
             function DoSorting() {
                 $("#tblChange th").each(function () {
-                    //alert($(this).data("sortOrder"));
                 });
 
             }
